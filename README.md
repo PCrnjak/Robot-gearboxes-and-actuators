@@ -1,3 +1,5 @@
+[![License: apache](https://img.shields.io/badge/Licsence-apache-yellow.svg)](https://opensource.org/license/apache-1-1/)  ![Issues](https://img.shields.io/github/issues/PCrnjak/Robot-gearboxes-and-actuators) ![release](https://img.shields.io/github/v/release/PCrnjak/Robot-gearboxes-and-actuators)
+
 # Library of open source robotic actuators and gearboxes
 
 # Goal
